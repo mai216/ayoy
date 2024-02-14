@@ -1,17 +1,7 @@
 import React, { useState } from 'react';
 import styled, { keyframes } from 'styled-components';
 import { FaHeart } from 'react-icons/fa';
-import img from '../src/14005cf3-7b44-4214-99f6-8ce5cc3dd744.jpeg';
-
-
- 
- 
-
-
-
-
-
-
+import img from '../src//photo1701480260.jpeg';
 
 
 const Container = styled.div`
